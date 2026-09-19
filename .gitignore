@@ -1,0 +1,15 @@
+# Eval workspace lives next to the repo, but ignore it if anyone moves it in
+chaltteok-parser-workspace/
+*-workspace/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.idea/
+.vscode/
+
+# Python bytecode from tooling
+__pycache__/
+*.pyc

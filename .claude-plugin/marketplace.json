@@ -1,0 +1,31 @@
+{
+  "name": "chaltteok",
+  "owner": {
+    "name": "lefthanddeveloper",
+    "url": "https://github.com/lefthanddeveloper"
+  },
+  "metadata": {
+    "description": "Skills for getting the request right before writing the code.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "chaltteok-parser",
+      "source": "./",
+      "description": "Catches vague or multi-interpretation requests and resolves them with targeted questions before doing the work, instead of guessing.",
+      "version": "0.1.0",
+      "author": {
+        "name": "lefthanddeveloper"
+      },
+      "homepage": "https://github.com/lefthanddeveloper/chaltteok-parser",
+      "license": "MIT",
+      "keywords": [
+        "clarification",
+        "ambiguity",
+        "requirements",
+        "questions",
+        "korean"
+      ]
+    }
+  ]
+}

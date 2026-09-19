@@ -1,0 +1,19 @@
+{
+  "name": "chaltteok-parser",
+  "description": "Catches vague or multi-interpretation requests and resolves them with targeted questions before doing the work, instead of guessing. Named after the Korean saying 개떡같이 말해도 찰떡같이 알아듣는다.",
+  "version": "0.1.0",
+  "author": {
+    "name": "lefthanddeveloper",
+    "url": "https://github.com/lefthanddeveloper"
+  },
+  "homepage": "https://github.com/lefthanddeveloper/chaltteok-parser",
+  "repository": "https://github.com/lefthanddeveloper/chaltteok-parser",
+  "license": "MIT",
+  "keywords": [
+    "clarification",
+    "ambiguity",
+    "requirements",
+    "questions",
+    "korean"
+  ]
+}
